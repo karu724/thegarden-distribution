@@ -136,6 +136,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods:sodium:0.5.8+mc1.20.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 949085,
+            "url": "https://raw.githubusercontent.com/karu724/thegarden-distribution/main/servers/TheGarden-1.20.4/fabricmods/required/sodium-fabric-0.5.8+mc1.20.4.jar",
+            "MD5": "d7753a50ca37f50abb10465a9a425dac"
+          }
+        },
+        {
           "id": "de.maxhenkel:voicechat:1.20.4-2.5.16@jar",
           "name": "Simple Voice Chat",
           "type": "FabricMod",
